@@ -4,5 +4,5 @@ Data Structure is impliment in python
 		. singly linked list
 		. singly circular linked list
 		. doubly linear linked list 
-		. doubly circular linked list
+		. doubly circular linked list.
 	
